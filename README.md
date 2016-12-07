@@ -6,7 +6,7 @@ SceneKit及AR/VR的相关书籍
 其余OpenGL和Metal的有需要再看
 
 
-还有一本很不错的书"3D_iOS_Games",不过太大传不上来
-3D_iOS_Games_by_Tutorials_v1.1 by Chris Language book and code_BAIDUYUN
+还有一本很不错的书"3D_iOS_Games",原书太大传不上来,上传了压缩版,图片质量比较差,高清版见下面度盘
 
+3D_iOS_Games_by_Tutorials_v1.1 by Chris Language book and code_BAIDUYUN
 链接：http://pan.baidu.com/s/1jHZEdpk 密码：p9u5

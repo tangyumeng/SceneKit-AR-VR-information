@@ -11,8 +11,12 @@ SceneKit及AR/VR的相关书籍
 3D_iOS_Games_by_Tutorials_v1.1 by Chris Language book and code_BAIDUYUN
 
 链接：http://pan.baidu.com/s/1jHZEdpk 密码：p9u5
+
 此书配套代码见:https://github.com/XanderXu/3D-iOS-Games-by-Tutorials-code
+
 相关中文翻译和解释:http://www.jianshu.com/c/c85af5c76c47
+
+
 
 
 还有一个利用EasyAR+SceneKit实现AR小程序:https://github.com/XanderXu/EasyAR-SceneKit

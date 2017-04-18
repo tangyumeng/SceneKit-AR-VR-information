@@ -16,6 +16,7 @@ SceneKit及AR/VR的相关书籍
 
 相关中文翻译和解释:http://www.jianshu.com/c/c85af5c76c47
 
+http://www.jianshu.com/p/fd32aa0d896a
 
 
 

@@ -1,7 +1,7 @@
 # SceneKit-AR-VR-
 SceneKit及AR/VR的相关书籍
 
-推荐先看<3D数学基础 图形与游戏开发.pdf>和<BeginningSwiftGamesDevelopment for iOS.pdf>这两本关于sceneKit的部分
+推荐先看**3D数学基础 图形与游戏开发.pdf**和**BeginningSwiftGamesDevelopment for iOS.pdf**这两本关于sceneKit的部分
 
 还有"3D_Apple_Games"这本书
 配套代码见:https://github.com/XanderXu/3D-iOS-Games-by-Tutorials-code

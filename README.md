@@ -9,7 +9,7 @@ iOS开发者的推荐学习顺序:
 
 2. 在步骤1中,如有数学相关或图形学相关知识不理解,可以去看`3D数学基础 图形与游戏开发.pdf`,`3D游戏与计算机图形学中的数学方法.pdf`这两本书
 
-3. 学习AR相关技术,查看文集[ARKit相关实践目录](https://juejin.im/post/5a976cb3f265da4e87010184)和[ARKit文集](https://juejin.im/collection/5a65c4746fb9a00a0f4597cb)
+3. 学习AR相关技术,查看文集[ARKit相关实践目录](https://juejin.im/post/5a976cb3f265da4e87010184)和[ARKit专栏](https://xiaozhuanlan.com/ARKit)
 
 4. 其余OpenGL和Metal的有需要再看  
 关于Metal,目前对Metal.org上的内容进行了翻译:[MetalKit文集](https://juejin.im/collection/5a320bc85188253989d3b279).   
